@@ -7,7 +7,7 @@
 
 ## Header
 ### Type
-**build**: Changes that affect the build system or external dependencies
+**chore**: Changes that affect the build system or external dependencies
 
 **ci**: Changes to the CI configuration
 
